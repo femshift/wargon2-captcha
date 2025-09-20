@@ -1,4 +1,4 @@
-# Advanced Captcha System
+# Captcha System
 
 A comprehensive proof-of-work captcha system with Argon2 hashing, WASM fingerprinting, and PostgreSQL storage.
 
@@ -316,4 +316,5 @@ Enable detailed logging:
 ```env
 DEBUG_MODE=true
 LOG_LEVEL=debug
+
 ```
